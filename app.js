@@ -3,5 +3,5 @@
  console.log('hotfix 1');
  console.log('issue 21');
  console.log('some other line');
- console.log('merged edit');
+ console.log('merged into edit');
 })();
