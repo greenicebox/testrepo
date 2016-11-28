@@ -1,6 +1,12 @@
 .none{
-  display:none;
+  display:visible;
 }
 .left{
   text-align:left;
+}
+.right{
+  text-align:right;
+}
+.node{
+  background:#e1e1e1;
 }
